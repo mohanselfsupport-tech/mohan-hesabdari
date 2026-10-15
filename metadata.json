@@ -1,0 +1,6 @@
+{
+  "name": "سامانه حسابداری و قطعات خودرو موهان | MOHAN",
+  "description": "سامانه جامع و هوشمند حسابداری، فروش، انبارداری و مدیریت قطعات خودرو با قابلیت صدور فاکتور رسمی و هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
